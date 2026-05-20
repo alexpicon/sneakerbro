@@ -6,6 +6,10 @@
 
 SneakerBro is a sneaker collection manager. It helps a collector catalog the pairs they own, track how much they actually wear them, browse a catalog of releases, keep a wishlist, and look through sneaker drop alerts.
 
+<p align="center">
+  <img src="screenshots/dashboard.png" width="280" alt="SneakerBro dashboard">
+</p>
+
 ---
 
 ## Background
@@ -48,18 +52,59 @@ The app ships with sample sneakers, a catalog, and a drop-alert feed, so it look
 
 ## Screens
 
-| Screen | What it shows |
-|---|---|
-| Sign in | Email + password sign-in (local stub of Firebase Auth) |
-| Sign up | Create an account (local stub of Firebase Auth) |
-| Dashboard | Collection summary, most-worn pair, recent alerts |
-| Collection | Every owned pair, with search and filters |
-| Add / Edit Sneaker | A validated form for adding or editing a pair |
-| Sneaker Detail | Full info, usage tracking, cost-per-wear, edit and delete |
-| Catalog | A browsable release catalog, loaded from local JSON |
-| Wishlist | Pairs you want, with a move-to-collection action |
-| Drop Alerts | A saved InfoBots alert feed, filterable by alert type |
-| Analytics | Collection value, value by brand, usage stats, cost-per-wear leaderboard |
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="screenshots/sign-in.png" width="220"><br>
+      <b>Sign in</b><br>
+      <sub>Email + password (Firebase Auth stub)</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/dashboard.png" width="220"><br>
+      <b>Dashboard</b><br>
+      <sub>Counts, market value, most-worn pair, recent alerts</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/collection.png" width="220"><br>
+      <b>Collection</b><br>
+      <sub>Owned pairs with photos and 2022 market values</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="screenshots/complexcon-af1-info.png" width="220"><br>
+      <b>Sneaker detail</b><br>
+      <sub>Per-pair usage, value, condition</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/catalog.png" width="220"><br>
+      <b>Catalog</b><br>
+      <sub>Release catalog with drawn artwork (API images gone)</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/wishlist.png" width="220"><br>
+      <b>Wishlist</b><br>
+      <sub>Pairs I'm chasing</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="screenshots/analytics.png" width="220"><br>
+      <b>Analytics</b><br>
+      <sub>Total value, value by brand, usage stats</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/alerts.png" width="220"><br>
+      <b>Drop alerts</b><br>
+      <sub>Saved InfoBots feed, filterable by type</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/profile-button.png" width="220"><br>
+      <b>Profile</b><br>
+      <sub>Account info and sign out</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
