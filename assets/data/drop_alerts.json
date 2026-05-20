@@ -1,0 +1,183 @@
+[
+  {
+    "id": "alert-001",
+    "productName": "Nike Dunk Low Retro Panda",
+    "brand": "Nike",
+    "store": "Nike",
+    "price": 110.0,
+    "sizes": [
+      "8",
+      "8.5",
+      "9",
+      "10",
+      "11"
+    ],
+    "url": "https://infobots.local/nike/dunk-low-panda",
+    "timestamp": "2022-09-13T09:12:00.000",
+    "sourceBot": "infobots/nike",
+    "alertType": "new_product"
+  },
+  {
+    "id": "alert-002",
+    "productName": "Air Jordan 1 Retro High OG University Blue",
+    "brand": "Jordan",
+    "store": "Foot Locker",
+    "price": 170.0,
+    "sizes": [
+      "9",
+      "10",
+      "11.5"
+    ],
+    "url": "https://infobots.local/footlocker/aj1-university-blue",
+    "timestamp": "2022-09-07T14:03:00.000",
+    "sourceBot": "infobots/footlocker",
+    "alertType": "restock"
+  },
+  {
+    "id": "alert-003",
+    "productName": "Yeezy Boost 350 V2 Zebra",
+    "brand": "adidas",
+    "store": "Solefly",
+    "price": 220.0,
+    "sizes": [
+      "9.5",
+      "10",
+      "10.5"
+    ],
+    "url": "https://infobots.local/solefly/yeezy-350-zebra",
+    "timestamp": "2022-08-31T11:30:00.000",
+    "sourceBot": "infobots/shopify",
+    "alertType": "restock"
+  },
+  {
+    "id": "alert-004",
+    "productName": "New Balance 550 White Green",
+    "brand": "New Balance",
+    "store": "Foot Locker",
+    "price": 99.0,
+    "sizes": [
+      "8",
+      "9",
+      "10"
+    ],
+    "url": "https://infobots.local/footlocker/nb-550-white-green",
+    "timestamp": "2022-08-24T16:45:00.000",
+    "sourceBot": "infobots/footlocker",
+    "alertType": "price_drop"
+  },
+  {
+    "id": "alert-005",
+    "productName": "Air Jordan 4 Retro Bred",
+    "brand": "Jordan",
+    "store": "Nike",
+    "price": 200.0,
+    "sizes": [
+      "10",
+      "11"
+    ],
+    "url": "https://infobots.local/nike/aj4-bred",
+    "timestamp": "2022-08-17T08:20:00.000",
+    "sourceBot": "infobots/nike",
+    "alertType": "new_product"
+  },
+  {
+    "id": "alert-006",
+    "productName": "Nike Blazer Mid '77 Vintage",
+    "brand": "Nike",
+    "store": "Nike",
+    "price": 100.0,
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "url": "https://infobots.local/nike/blazer-mid-77",
+    "timestamp": "2022-08-09T10:00:00.000",
+    "sourceBot": "infobots/nike",
+    "alertType": "restock"
+  },
+  {
+    "id": "alert-007",
+    "productName": "Nike Air Max 90 Infrared",
+    "brand": "Nike",
+    "store": "Foot Locker",
+    "price": 108.0,
+    "sizes": [
+      "9",
+      "10"
+    ],
+    "url": "https://infobots.local/footlocker/air-max-90-infrared",
+    "timestamp": "2022-08-02T13:15:00.000",
+    "sourceBot": "infobots/footlocker",
+    "alertType": "price_drop"
+  },
+  {
+    "id": "alert-008",
+    "productName": "Converse Chuck 70 High Black",
+    "brand": "Converse",
+    "store": "Solefly",
+    "price": 85.0,
+    "sizes": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "url": "https://infobots.local/solefly/chuck-70-high-black",
+    "timestamp": "2022-07-26T12:00:00.000",
+    "sourceBot": "infobots/shopify",
+    "alertType": "new_product"
+  },
+  {
+    "id": "alert-009",
+    "productName": "Air Jordan 11 Retro Bred",
+    "brand": "Jordan",
+    "store": "Foot Locker",
+    "price": 220.0,
+    "sizes": [
+      "10",
+      "12"
+    ],
+    "url": "https://infobots.local/footlocker/aj11-bred",
+    "timestamp": "2022-07-19T15:30:00.000",
+    "sourceBot": "infobots/footlocker",
+    "alertType": "restock"
+  },
+  {
+    "id": "alert-010",
+    "productName": "New Balance 990v5 Grey",
+    "brand": "New Balance",
+    "store": "Solefly",
+    "price": 169.0,
+    "sizes": [
+      "9",
+      "9.5",
+      "10",
+      "11"
+    ],
+    "url": "https://infobots.local/solefly/nb-990v5-grey",
+    "timestamp": "2022-07-11T09:45:00.000",
+    "sourceBot": "infobots/shopify",
+    "alertType": "price_drop"
+  },
+  {
+    "id": "alert-011",
+    "productName": "Nike Dunk Low UNC",
+    "brand": "Nike",
+    "store": "Nike",
+    "price": 100.0,
+    "sizes": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "url": "https://infobots.local/nike/dunk-low-unc",
+    "timestamp": "2022-07-04T07:30:00.000",
+    "sourceBot": "infobots/nike",
+    "alertType": "new_product"
+  }
+]

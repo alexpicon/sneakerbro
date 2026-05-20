@@ -1,0 +1,522 @@
+[
+  {
+    "id": "cat-nike-dunk-low-panda",
+    "name": "Nike Dunk Low Panda",
+    "brand": "Nike",
+    "model": "Dunk Low",
+    "colorway": "Black/White",
+    "retailPrice": 110.0,
+    "imageUrl": "",
+    "releaseDate": "2021-01-14T00:00:00.000"
+  },
+  {
+    "id": "cat-nike-dunk-low-unc",
+    "name": "Nike Dunk Low UNC",
+    "brand": "Nike",
+    "model": "Dunk Low",
+    "colorway": "University Blue/White",
+    "retailPrice": 100.0,
+    "imageUrl": "",
+    "releaseDate": "2021-04-08T00:00:00.000"
+  },
+  {
+    "id": "cat-nike-dunk-low-syracuse",
+    "name": "Nike Dunk Low Syracuse",
+    "brand": "Nike",
+    "model": "Dunk Low",
+    "colorway": "Orange/White",
+    "retailPrice": 100.0,
+    "imageUrl": "",
+    "releaseDate": "2020-10-22T00:00:00.000"
+  },
+  {
+    "id": "cat-nike-dunk-low-michigan",
+    "name": "Nike Dunk Low Michigan",
+    "brand": "Nike",
+    "model": "Dunk Low",
+    "colorway": "Yellow/Navy",
+    "retailPrice": 100.0,
+    "imageUrl": "",
+    "releaseDate": "2021-06-24T00:00:00.000"
+  },
+  {
+    "id": "cat-nike-dunk-low-championship-red",
+    "name": "Nike Dunk Low Championship Red",
+    "brand": "Nike",
+    "model": "Dunk Low",
+    "colorway": "Red/White",
+    "retailPrice": 110.0,
+    "imageUrl": "",
+    "releaseDate": "2021-09-09T00:00:00.000"
+  },
+  {
+    "id": "cat-nike-dunk-low-green-apple",
+    "name": "Nike Dunk Low Green Apple",
+    "brand": "Nike",
+    "model": "Dunk Low",
+    "colorway": "Green/White",
+    "retailPrice": 110.0,
+    "imageUrl": "",
+    "releaseDate": "2021-12-03T00:00:00.000"
+  },
+  {
+    "id": "cat-air-jordan-1-retro-high-og-chicago",
+    "name": "Air Jordan 1 Retro High OG Chicago",
+    "brand": "Jordan",
+    "model": "Air Jordan 1",
+    "colorway": "White/Red/Black",
+    "retailPrice": 170.0,
+    "imageUrl": "",
+    "releaseDate": "2015-05-30T00:00:00.000"
+  },
+  {
+    "id": "cat-air-jordan-1-retro-high-og-university-blue",
+    "name": "Air Jordan 1 Retro High OG University Blue",
+    "brand": "Jordan",
+    "model": "Air Jordan 1",
+    "colorway": "University Blue/White",
+    "retailPrice": 170.0,
+    "imageUrl": "",
+    "releaseDate": "2021-03-06T00:00:00.000"
+  },
+  {
+    "id": "cat-air-jordan-1-retro-high-og-royal-toe",
+    "name": "Air Jordan 1 Retro High OG Royal Toe",
+    "brand": "Jordan",
+    "model": "Air Jordan 1",
+    "colorway": "Black/Royal Blue",
+    "retailPrice": 190.0,
+    "imageUrl": "",
+    "releaseDate": "2020-07-11T00:00:00.000"
+  },
+  {
+    "id": "cat-air-jordan-1-retro-high-og-shadow-2-0",
+    "name": "Air Jordan 1 Retro High OG Shadow 2.0",
+    "brand": "Jordan",
+    "model": "Air Jordan 1",
+    "colorway": "Black/Grey",
+    "retailPrice": 170.0,
+    "imageUrl": "",
+    "releaseDate": "2020-05-02T00:00:00.000"
+  },
+  {
+    "id": "cat-air-jordan-1-retro-high-og-hyper-royal",
+    "name": "Air Jordan 1 Retro High OG Hyper Royal",
+    "brand": "Jordan",
+    "model": "Air Jordan 1",
+    "colorway": "Royal Blue/Grey",
+    "retailPrice": 170.0,
+    "imageUrl": "",
+    "releaseDate": "2021-04-17T00:00:00.000"
+  },
+  {
+    "id": "cat-air-jordan-1-retro-high-og-dark-mocha",
+    "name": "Air Jordan 1 Retro High OG Dark Mocha",
+    "brand": "Jordan",
+    "model": "Air Jordan 1",
+    "colorway": "Brown/Black",
+    "retailPrice": 170.0,
+    "imageUrl": "",
+    "releaseDate": "2020-10-31T00:00:00.000"
+  },
+  {
+    "id": "cat-air-jordan-1-low-travis-scott-mocha",
+    "name": "Air Jordan 1 Low Travis Scott Mocha",
+    "brand": "Jordan",
+    "model": "Air Jordan 1 Low OG",
+    "colorway": "Brown/Cream",
+    "retailPrice": 130.0,
+    "imageUrl": "",
+    "releaseDate": "2019-05-11T00:00:00.000"
+  },
+  {
+    "id": "cat-air-jordan-1-low-triple-white",
+    "name": "Air Jordan 1 Low Triple White",
+    "brand": "Jordan",
+    "model": "Air Jordan 1 Low",
+    "colorway": "White",
+    "retailPrice": 90.0,
+    "imageUrl": "",
+    "releaseDate": "2020-02-01T00:00:00.000"
+  },
+  {
+    "id": "cat-air-jordan-1-mid-white-black",
+    "name": "Air Jordan 1 Mid White Black",
+    "brand": "Jordan",
+    "model": "Air Jordan 1 Mid",
+    "colorway": "White/Black",
+    "retailPrice": 115.0,
+    "imageUrl": "",
+    "releaseDate": "2020-03-19T00:00:00.000"
+  },
+  {
+    "id": "cat-air-jordan-3-retro-black-cement",
+    "name": "Air Jordan 3 Retro Black Cement",
+    "brand": "Jordan",
+    "model": "Air Jordan 3",
+    "colorway": "Black/Grey",
+    "retailPrice": 200.0,
+    "imageUrl": "",
+    "releaseDate": "2018-02-17T00:00:00.000"
+  },
+  {
+    "id": "cat-air-jordan-4-retro-bred",
+    "name": "Air Jordan 4 Retro Bred",
+    "brand": "Jordan",
+    "model": "Air Jordan 4",
+    "colorway": "Black/Red",
+    "retailPrice": 200.0,
+    "imageUrl": "",
+    "releaseDate": "2019-05-04T00:00:00.000"
+  },
+  {
+    "id": "cat-air-jordan-4-retro-white-oreo",
+    "name": "Air Jordan 4 Retro White Oreo",
+    "brand": "Jordan",
+    "model": "Air Jordan 4",
+    "colorway": "White/Grey",
+    "retailPrice": 200.0,
+    "imageUrl": "",
+    "releaseDate": "2021-07-03T00:00:00.000"
+  },
+  {
+    "id": "cat-air-jordan-4-retro-university-blue",
+    "name": "Air Jordan 4 Retro University Blue",
+    "brand": "Jordan",
+    "model": "Air Jordan 4",
+    "colorway": "University Blue/Grey",
+    "retailPrice": 200.0,
+    "imageUrl": "",
+    "releaseDate": "2021-05-08T00:00:00.000"
+  },
+  {
+    "id": "cat-air-jordan-4-retro-black-cat",
+    "name": "Air Jordan 4 Retro Black Cat",
+    "brand": "Jordan",
+    "model": "Air Jordan 4",
+    "colorway": "Black",
+    "retailPrice": 190.0,
+    "imageUrl": "",
+    "releaseDate": "2020-01-22T00:00:00.000"
+  },
+  {
+    "id": "cat-air-jordan-5-retro-fire-red",
+    "name": "Air Jordan 5 Retro Fire Red",
+    "brand": "Jordan",
+    "model": "Air Jordan 5",
+    "colorway": "White/Red/Black",
+    "retailPrice": 200.0,
+    "imageUrl": "",
+    "releaseDate": "2020-05-02T00:00:00.000"
+  },
+  {
+    "id": "cat-air-jordan-11-retro-bred",
+    "name": "Air Jordan 11 Retro Bred",
+    "brand": "Jordan",
+    "model": "Air Jordan 11",
+    "colorway": "Black/Red",
+    "retailPrice": 220.0,
+    "imageUrl": "",
+    "releaseDate": "2019-12-14T00:00:00.000"
+  },
+  {
+    "id": "cat-air-jordan-11-retro-concord",
+    "name": "Air Jordan 11 Retro Concord",
+    "brand": "Jordan",
+    "model": "Air Jordan 11",
+    "colorway": "White/Black",
+    "retailPrice": 220.0,
+    "imageUrl": "",
+    "releaseDate": "2018-12-08T00:00:00.000"
+  },
+  {
+    "id": "cat-air-jordan-11-retro-cool-grey",
+    "name": "Air Jordan 11 Retro Cool Grey",
+    "brand": "Jordan",
+    "model": "Air Jordan 11",
+    "colorway": "Grey/White",
+    "retailPrice": 225.0,
+    "imageUrl": "",
+    "releaseDate": "2021-12-11T00:00:00.000"
+  },
+  {
+    "id": "cat-air-jordan-12-retro-royalty",
+    "name": "Air Jordan 12 Retro Royalty",
+    "brand": "Jordan",
+    "model": "Air Jordan 12",
+    "colorway": "Black/Gold",
+    "retailPrice": 200.0,
+    "imageUrl": "",
+    "releaseDate": "2018-10-13T00:00:00.000"
+  },
+  {
+    "id": "cat-nike-air-force-1-07-triple-white",
+    "name": "Nike Air Force 1 '07 Triple White",
+    "brand": "Nike",
+    "model": "Air Force 1",
+    "colorway": "White",
+    "retailPrice": 100.0,
+    "imageUrl": "",
+    "releaseDate": "2016-01-01T00:00:00.000"
+  },
+  {
+    "id": "cat-nike-air-force-1-07-triple-black",
+    "name": "Nike Air Force 1 '07 Triple Black",
+    "brand": "Nike",
+    "model": "Air Force 1",
+    "colorway": "Black",
+    "retailPrice": 100.0,
+    "imageUrl": "",
+    "releaseDate": "2016-01-01T00:00:00.000"
+  },
+  {
+    "id": "cat-nike-air-max-90-infrared",
+    "name": "Nike Air Max 90 Infrared",
+    "brand": "Nike",
+    "model": "Air Max 90",
+    "colorway": "White/Grey/Infrared",
+    "retailPrice": 120.0,
+    "imageUrl": "",
+    "releaseDate": "2020-12-26T00:00:00.000"
+  },
+  {
+    "id": "cat-nike-air-max-97-silver-bullet",
+    "name": "Nike Air Max 97 Silver Bullet",
+    "brand": "Nike",
+    "model": "Air Max 97",
+    "colorway": "Silver/Red",
+    "retailPrice": 170.0,
+    "imageUrl": "",
+    "releaseDate": "2017-04-13T00:00:00.000"
+  },
+  {
+    "id": "cat-nike-air-max-1-anniversary",
+    "name": "Nike Air Max 1 Anniversary",
+    "brand": "Nike",
+    "model": "Air Max 1",
+    "colorway": "White/Red",
+    "retailPrice": 140.0,
+    "imageUrl": "",
+    "releaseDate": "2017-03-26T00:00:00.000"
+  },
+  {
+    "id": "cat-nike-blazer-mid-77-vintage",
+    "name": "Nike Blazer Mid '77 Vintage",
+    "brand": "Nike",
+    "model": "Blazer Mid '77",
+    "colorway": "White/Black",
+    "retailPrice": 100.0,
+    "imageUrl": "",
+    "releaseDate": "2020-06-01T00:00:00.000"
+  },
+  {
+    "id": "cat-nike-react-element-55",
+    "name": "Nike React Element 55",
+    "brand": "Nike",
+    "model": "React Element 55",
+    "colorway": "Grey/Black",
+    "retailPrice": 130.0,
+    "imageUrl": "",
+    "releaseDate": "2019-02-22T00:00:00.000"
+  },
+  {
+    "id": "cat-yeezy-boost-350-v2-zebra",
+    "name": "Yeezy Boost 350 V2 Zebra",
+    "brand": "adidas",
+    "model": "Yeezy Boost 350 V2",
+    "colorway": "White/Black",
+    "retailPrice": 220.0,
+    "imageUrl": "",
+    "releaseDate": "2017-02-25T00:00:00.000"
+  },
+  {
+    "id": "cat-yeezy-boost-350-v2-beluga",
+    "name": "Yeezy Boost 350 V2 Beluga",
+    "brand": "adidas",
+    "model": "Yeezy Boost 350 V2",
+    "colorway": "Grey/Orange",
+    "retailPrice": 220.0,
+    "imageUrl": "",
+    "releaseDate": "2016-09-24T00:00:00.000"
+  },
+  {
+    "id": "cat-yeezy-boost-350-v2-bred",
+    "name": "Yeezy Boost 350 V2 Bred",
+    "brand": "adidas",
+    "model": "Yeezy Boost 350 V2",
+    "colorway": "Black/Red",
+    "retailPrice": 220.0,
+    "imageUrl": "",
+    "releaseDate": "2017-06-24T00:00:00.000"
+  },
+  {
+    "id": "cat-yeezy-boost-350-v2-cream",
+    "name": "Yeezy Boost 350 V2 Cream",
+    "brand": "adidas",
+    "model": "Yeezy Boost 350 V2",
+    "colorway": "Cream",
+    "retailPrice": 220.0,
+    "imageUrl": "",
+    "releaseDate": "2017-04-29T00:00:00.000"
+  },
+  {
+    "id": "cat-yeezy-boost-700-wave-runner",
+    "name": "Yeezy Boost 700 Wave Runner",
+    "brand": "adidas",
+    "model": "Yeezy Boost 700",
+    "colorway": "Grey/Silver",
+    "retailPrice": 300.0,
+    "imageUrl": "",
+    "releaseDate": "2017-11-15T00:00:00.000"
+  },
+  {
+    "id": "cat-yeezy-boost-500-blush",
+    "name": "Yeezy Boost 500 Blush",
+    "brand": "adidas",
+    "model": "Yeezy Boost 500",
+    "colorway": "Pink/Tan",
+    "retailPrice": 200.0,
+    "imageUrl": "",
+    "releaseDate": "2018-11-17T00:00:00.000"
+  },
+  {
+    "id": "cat-adidas-ultraboost-triple-black",
+    "name": "adidas Ultraboost Triple Black",
+    "brand": "adidas",
+    "model": "Ultraboost",
+    "colorway": "Black",
+    "retailPrice": 180.0,
+    "imageUrl": "",
+    "releaseDate": "2018-01-01T00:00:00.000"
+  },
+  {
+    "id": "cat-adidas-stan-smith",
+    "name": "adidas Stan Smith",
+    "brand": "adidas",
+    "model": "Stan Smith",
+    "colorway": "White/Green",
+    "retailPrice": 90.0,
+    "imageUrl": "",
+    "releaseDate": "2017-01-01T00:00:00.000"
+  },
+  {
+    "id": "cat-adidas-superstar",
+    "name": "adidas Superstar",
+    "brand": "adidas",
+    "model": "Superstar",
+    "colorway": "White/Black",
+    "retailPrice": 90.0,
+    "imageUrl": "",
+    "releaseDate": "2017-01-01T00:00:00.000"
+  },
+  {
+    "id": "cat-adidas-forum-low",
+    "name": "adidas Forum Low",
+    "brand": "adidas",
+    "model": "Forum Low",
+    "colorway": "White/Blue",
+    "retailPrice": 100.0,
+    "imageUrl": "",
+    "releaseDate": "2021-02-01T00:00:00.000"
+  },
+  {
+    "id": "cat-adidas-samba-og",
+    "name": "adidas Samba OG",
+    "brand": "adidas",
+    "model": "Samba OG",
+    "colorway": "Black/White",
+    "retailPrice": 100.0,
+    "imageUrl": "",
+    "releaseDate": "2019-01-01T00:00:00.000"
+  },
+  {
+    "id": "cat-adidas-nmd-r1",
+    "name": "adidas NMD R1",
+    "brand": "adidas",
+    "model": "NMD R1",
+    "colorway": "Black",
+    "retailPrice": 140.0,
+    "imageUrl": "",
+    "releaseDate": "2017-01-01T00:00:00.000"
+  },
+  {
+    "id": "cat-new-balance-550-white-green",
+    "name": "New Balance 550 White Green",
+    "brand": "New Balance",
+    "model": "550",
+    "colorway": "White/Green",
+    "retailPrice": 110.0,
+    "imageUrl": "",
+    "releaseDate": "2021-04-23T00:00:00.000"
+  },
+  {
+    "id": "cat-new-balance-550-white-grey",
+    "name": "New Balance 550 White Grey",
+    "brand": "New Balance",
+    "model": "550",
+    "colorway": "White/Grey",
+    "retailPrice": 110.0,
+    "imageUrl": "",
+    "releaseDate": "2021-09-17T00:00:00.000"
+  },
+  {
+    "id": "cat-new-balance-990v5-grey",
+    "name": "New Balance 990v5 Grey",
+    "brand": "New Balance",
+    "model": "990v5",
+    "colorway": "Grey",
+    "retailPrice": 185.0,
+    "imageUrl": "",
+    "releaseDate": "2019-09-13T00:00:00.000"
+  },
+  {
+    "id": "cat-new-balance-327-grey",
+    "name": "New Balance 327 Grey",
+    "brand": "New Balance",
+    "model": "327",
+    "colorway": "Grey/White",
+    "retailPrice": 100.0,
+    "imageUrl": "",
+    "releaseDate": "2020-10-01T00:00:00.000"
+  },
+  {
+    "id": "cat-new-balance-2002r-grey",
+    "name": "New Balance 2002R Grey",
+    "brand": "New Balance",
+    "model": "2002R",
+    "colorway": "Grey/Silver",
+    "retailPrice": 140.0,
+    "imageUrl": "",
+    "releaseDate": "2020-09-01T00:00:00.000"
+  },
+  {
+    "id": "cat-converse-chuck-70-high-black",
+    "name": "Converse Chuck 70 High Black",
+    "brand": "Converse",
+    "model": "Chuck 70",
+    "colorway": "Black",
+    "retailPrice": 85.0,
+    "imageUrl": "",
+    "releaseDate": "2017-01-01T00:00:00.000"
+  },
+  {
+    "id": "cat-vans-old-skool-black",
+    "name": "Vans Old Skool Black",
+    "brand": "Vans",
+    "model": "Old Skool",
+    "colorway": "Black/White",
+    "retailPrice": 65.0,
+    "imageUrl": "",
+    "releaseDate": "2017-01-01T00:00:00.000"
+  },
+  {
+    "id": "cat-vans-sk8-hi",
+    "name": "Vans Sk8-Hi",
+    "brand": "Vans",
+    "model": "Sk8-Hi",
+    "colorway": "Black/White",
+    "retailPrice": 75.0,
+    "imageUrl": "",
+    "releaseDate": "2017-01-01T00:00:00.000"
+  }
+]
