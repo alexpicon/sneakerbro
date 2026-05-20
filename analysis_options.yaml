@@ -1,0 +1,9 @@
+include: package:flutter_lints/flutter.yaml
+
+# Kept light on purpose. This is an archived project rather than an actively
+# linted codebase, so the rules here are the Flutter defaults plus a couple
+# of small preferences.
+linter:
+  rules:
+    prefer_single_quotes: true
+    avoid_print: false

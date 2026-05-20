@@ -1,0 +1,45 @@
+name: sneakerbro
+description: >-
+  SneakerBro - a sneaker collection manager. A re-archive of an early
+  mobile project originally built between 2018 and 2022 on Firebase; the
+  backend was retired with the project, and the archive runs on local
+  stubs of the auth and storage layers.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+  # State management. Provider was Google's recommended approach across the
+  # 2019-2021 period this app comes from, so it is the period-honest pick.
+  provider: ^6.0.0
+
+  # Local storage for the user's collection - and the local stub for what
+  # was Cloud Firestore in the original app. Each user gets their own Hive
+  # box, mirroring Firestore's per-user partitioning. The catalog and drop
+  # alerts ship as bundled JSON read by AssetLoader.
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+
+  # Sneaker photos. image_picker pulls a photo from the camera or library;
+  # path_provider gives a stable folder to copy it into. Both are
+  # long-standing first-party plugins. The drawn artwork still covers any
+  # pair without a photo, so these stay optional to the core experience.
+  image_picker: ^1.0.0
+  path_provider: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/
+    - assets/photos/
