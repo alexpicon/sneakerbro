@@ -14,7 +14,7 @@ SneakerBro is a sneaker collection manager. It helps a collector catalog the pai
 
 ## Background
 
-I built **SneakerBro** between 2018 and 2022. It was my first real product. I knew how to code somewhat but had never built a mobile app, so this is where I learned that side of it. My **dad is a software engineer**, and in the early days he sat with me through a lot of it. We set up **Firebase Auth** together (my first real backend work), and he walked me through how to structure a real app. Over time I learned enough to take more of it on myself. The app was a sneaker collection tracker with per-user sync on **Cloud Firestore**, a catalog tab fed by a third-party sneaker API, and a drop-alerts tab pulled from **[InfoBots](../infobots)**, my scraper project. Distribution was through **TestFlight**, to friends and to the private Discord server where my InfoBots scrapers ran. They were the same crowd, watching for drops and tracking their collections in one app.
+I built **SneakerBro** between 2018 and 2022. It was my first real product. I knew how to code somewhat but had never built a mobile app, so this is where I learned that side of it. My **dad is a software engineer**, and in the early days he sat with me through a lot of it. We set up **Firebase Auth** together (my first real backend work), and he walked me through how to structure a real app. Over time I learned enough to take more of it on myself. The app was a sneaker collection tracker with per-user sync on **Cloud Firestore**, a catalog tab fed by a third-party sneaker API, and a drop-alerts tab pulled from **[InfoBots](https://github.com/alexpicon/infobots)**, my scraper project. Distribution was through **TestFlight**, to friends and to the private Discord server where my InfoBots scrapers ran. They were the same crowd, watching for drops and tracking their collections in one app.
 
 I started college in September 2022 and let it lapse. The Firebase project was retired and the sneaker API disappeared too. A lot of those mid-era sneaker APIs did. This 2026 archive preserves the **code**, snapshots the **API-fed data** (catalog, alerts, 2022 market prices), keeps my own **user data** intact (29-pair collection with my photos, wishlist, wear counts), and ships local stubs of the Firebase layer so the auth flow still runs. Lines marked `// LIVE:` in the source mark where the original made network calls.
 
@@ -212,4 +212,4 @@ MIT. See [LICENSE](LICENSE).
 
 ---
 
-Built with Flutter. Part of my early builder archive, alongside [InfoBots](../infobots).
+Built with Flutter. Part of my early builder archive, alongside [InfoBots](https://github.com/alexpicon/infobots).
